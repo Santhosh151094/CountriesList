@@ -16,20 +16,20 @@
 
 ### Countries List
 
-![contact_list](https://user-images.githubusercontent.com/39756478/84576549-29403580-add3-11ea-9c98-1e61a661bf71.png)
+![Counties List Screen](https://user-images.githubusercontent.com/39756478/88955375-76139900-d2b9-11ea-8fed-8e782a11e721.png)
 
 ### Filter by Country Name or Code
 
-![add_contact_info](https://user-images.githubusercontent.com/39756478/84576689-53462780-add4-11ea-90e4-77dd45cc85e6.png)
+![Filter by Country name or code](https://user-images.githubusercontent.com/39756478/88955409-8297f180-d2b9-11ea-809e-48db7ee46311.png)
 
 ### Sort by Country
 
-![edit_contact_info](https://user-images.githubusercontent.com/39756478/84576808-1595ce80-add5-11ea-83ce-85911e3eebda.png)
+![Sort by Country](https://user-images.githubusercontent.com/39756478/88955438-8d528680-d2b9-11ea-84d6-3ca9a3f02674.png)
 
-### Countries Detail
+### Sort by Population
 
-![detail_contact](https://user-images.githubusercontent.com/39756478/84576707-7ffa3f00-add4-11ea-8c19-c279622eb714.png)
+![Sort by Population](https://user-images.githubusercontent.com/39756478/88955484-9c393900-d2b9-11ea-9730-63a9d3540d75.png)
 
-        Contact Info Delete Option
+### Country detail Screen
 
-![delete_contact](https://user-images.githubusercontent.com/39756478/84576736-addf8380-add4-11ea-8b36-534cf135471e.png)
+![Country Detail Screen](https://user-images.githubusercontent.com/39756478/88955705-e5898880-d2b9-11ea-9fb0-4108f9fd5c1c.png)
