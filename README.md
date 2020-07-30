@@ -23,12 +23,12 @@
 ![Filter by Country name or code](https://user-images.githubusercontent.com/39756478/88955409-8297f180-d2b9-11ea-809e-48db7ee46311.png)
 
 ### Sort by Country
-Sorting can be done by clicking particular up and down arrow button near country name
+Sorting can be done by clicking up and down arrow button near country name
 
 ![Sort by Country](https://user-images.githubusercontent.com/39756478/88955438-8d528680-d2b9-11ea-84d6-3ca9a3f02674.png)
 
 ### Sort by Population
-Sorting can be done by clicking particular up and down arrow button near population name
+Sorting can be done by clicking up and down arrow button near population name
 
 ![Sort by Population](https://user-images.githubusercontent.com/39756478/88955484-9c393900-d2b9-11ea-9730-63a9d3540d75.png)
 
